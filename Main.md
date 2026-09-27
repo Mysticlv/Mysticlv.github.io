@@ -1,3 +1,3 @@
 layout: page
 title: "PAGE-TITLE"
-permalink: /Main
+permalink: /Main.html
